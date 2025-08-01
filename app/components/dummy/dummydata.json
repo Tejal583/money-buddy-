@@ -1,0 +1,91 @@
+[
+    {
+      "user_id": "USER001",
+      "name": "Tejal Hande",
+      "monthly_summary": [
+        {
+          "month": "2025-01",
+          "total_income": 6000.00,
+          "total_expenses": 4500.50,
+          "expense_categories": {
+            "Rent/Mortgage": 1500.00,
+            "Food": 650.75,
+            "Transportation": 250.20,
+            "Utilities": 180.90,
+            "Entertainment": 300.00,
+            "Other": 1518.65
+          },
+          "net_worth_change": 1499.50,
+          "savings_rate": 0.2499,
+          "goal_progress": {
+            "Down Payment for Car": 500.00
+          }
+        },
+        {
+          "month": "2025-02",
+          "total_income": 6000.00,
+          "total_expenses": 8800.25,
+          "expense_categories": {
+            "Rent/Mortgage": 1500.00,
+            "Food": 580.10,
+            "Transportation": 280.50,
+            "Utilities": 195.30,
+            "Entertainment": 420.00,
+            "Other": 1824.35
+          },
+          "net_worth_change": 1199.75,
+          "savings_rate": 0.1999,
+          "goal_progress": {
+            "Down Payment for Car": 450.00
+          }
+        },
+        {
+          "month": "2025-03",
+          "total_income": 6850.00,
+          "total_expenses": 7200.80,
+          "expense_categories": {
+            "Rent/Mortgage": 1500.00,
+            "Food": 700.90,
+            "Transportation": 220.75,
+            "Utilities": 170.50,
+            "Entertainment": 250.00,
+            "Other": 1358.65
+          },
+          "net_worth_change": 2649.20,
+          "savings_rate": 0.3868,
+          "goal_progress": {
+            "Down Payment for Car": 250.00
+          }
+        },
+        {
+          "month": "2025-04",
+          "total_income": 6000.00,
+          "total_expenses": 3500.15,
+          "expense_categories": {
+            "Rent/Mortgage": 1500.00,
+            "Food": 450.30,
+            "Transportation": 180.00,
+            "Utilities": 160.25,
+            "Entertainment": 350.00,
+            "Other": 859.60
+          },
+          "net_worth_change": 2499.85,
+          "savings_rate": 0.4166,
+          "goal_progress": {
+            "Down Payment for Car": 0.00 
+          }
+        }
+      ],
+      "current_account_balances": {
+        "Main Checking": 2345.67,
+        "Visa Rewards (Credit Card)": -345.89,
+        "Emergency Fund": 10200.50
+      },
+      "financial_goals_summary": {
+        "Down Payment for Car": {
+          "target_amount": 5000.00,
+          "current_saved": 1800.00 
+        }
+      }
+    }
+  ]
